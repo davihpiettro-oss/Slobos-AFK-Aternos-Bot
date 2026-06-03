@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "Tecnoblade0",
     "password": "",
-    "type": "microsoft"
+    "type": "offline"
   },
   "server": {
     "ip": "CAIODAMOTO.aternos.me",
